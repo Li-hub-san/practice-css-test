@@ -7,6 +7,10 @@ body {
     margin: 15px;
 }
 
+#wrap {
+    width:70%;
+    margin:auto;
+}
 /*** HEADER ***/
 #header {
     height: 130px;
